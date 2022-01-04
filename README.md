@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @gilles-guillot
 - 👀 I’m interested in R programming, R packages development, python, reproducible research, data analytics and machine learning
-- 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on anything that falls within my area of competence
 - 📫 gilles.b.guillot@gmail.com
 
