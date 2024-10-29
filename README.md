@@ -1,4 +1,3 @@
-- 👋 Hi, I’m @gilles-guillot
 - 👀 I’m interested in R programming, R packages development, python, reproducible research, data analytics and machine learning
 - 📫 gilles.b.guillot@gmail.com
 
